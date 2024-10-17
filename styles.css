@@ -1,0 +1,31 @@
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: #0d9208;
+    font-style: oblique;
+}
+
+a:hover {
+    background-color: yellow;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.box {
+    margin: 10px;
+    border: 5px ridge #000000;
+    padding: 20px;
+    width: 400px; 
+    height: 300px;
+}
+
+#header-footer {
+    background-color: cyan;
+}
+.urgent-text {
+    color: red !important;
+}
+
